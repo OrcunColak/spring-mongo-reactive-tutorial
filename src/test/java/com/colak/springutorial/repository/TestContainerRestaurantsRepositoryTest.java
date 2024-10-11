@@ -1,6 +1,6 @@
-package com.colak.springmongoreactivetutorial.repository;
+package com.colak.springutorial.repository;
 
-import com.colak.springmongoreactivetutorial.entity.Restaurants;
+import com.colak.springutorial.entity.Restaurants;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

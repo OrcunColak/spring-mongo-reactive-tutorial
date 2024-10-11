@@ -1,6 +1,6 @@
-package com.colak.springmongoreactivetutorial.repository;
+package com.colak.springutorial.repository;
 
-import com.colak.springmongoreactivetutorial.entity.Restaurants;
+import com.colak.springutorial.entity.Restaurants;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import reactor.core.publisher.Flux;
 

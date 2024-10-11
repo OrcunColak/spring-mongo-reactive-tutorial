@@ -1,4 +1,4 @@
-package com.colak.springmongoreactivetutorial.entity;
+package com.colak.springutorial.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
